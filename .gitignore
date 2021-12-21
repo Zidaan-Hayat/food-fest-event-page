@@ -1,0 +1,4 @@
+copy_storage.py
+node_modules/
+package-lock.json
+.env
